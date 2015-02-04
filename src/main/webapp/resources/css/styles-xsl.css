@@ -1,0 +1,38 @@
+.container {
+	width: 60%;
+	margin: 100px auto;
+	border: 3px solid #CFCDCD;
+	padding: 40px;
+	min-height: 500px;
+}
+
+.error {
+	color: red;
+}
+
+.buttons-inline {
+	margin: 20px;
+	display: inline-block;
+}
+
+.goodsList-table {
+	border: 2px solid grey;
+	border-collapse: collapse;
+}
+
+.content {
+	margin: 15px;
+}
+
+.goodsList-table td, th {
+	border: 1px solid grey;
+	padding: 3px 10px;
+}
+
+.addpage-submit-save {
+	padding-top: 20px;
+}
+
+.addpage-submit-back {
+	margin-top: -43px;
+}
